@@ -28,7 +28,11 @@ body{
     font-weight: 500;
 }
 
+footer{
+    color: gray;
+}
+
 ul li a i{
     font-size: 24px;
-    color: #525252 !important;
+    color: gray !important;
 }
